@@ -1,6 +1,12 @@
 # github-notes
 GitHub notes.
 
+## See Also
+
+* [AndersDJohnson/git-notes](https://github.com/AndersDJohnson/git-notes)
+
+## Misc
+
 * https://help.github.com/articles/checking-out-pull-requests-locally/
 
 ## Backup
